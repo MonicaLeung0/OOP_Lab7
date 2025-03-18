@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "OOP2_Lab7_Test\\UnitTest1.cs",
               "ToolTip": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab7\\Lab7github\\OOP_Lab7\\OOP2_Lab7_Test\\UnitTest1.cs",
               "RelativeToolTip": "OOP2_Lab7_Test\\UnitTest1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T14:40:36.637Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "OOP_Lab7\\BasicMath.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:39:46.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T14:39:46.171Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "OOP_Lab7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:39:02.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T14:39:02.947Z"
             }
           ]
         }

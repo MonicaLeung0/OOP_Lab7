@@ -9,26 +9,26 @@ namespace OOP2_Lab7_Test
             private BasicMath math = new BasicMath();
 
             [Test]
-            public void TestAdd()
+            public void Test_AddMethod()
             {
                 Assert.AreEqual(5, math.Add(2, 3));
             }
 
             [Test]
-            public void TestSubtract()
+            public void Test_SubtractMethod()
             {
-                Assert.AreEqual(1, math.Subtract(3, 2));
+                Assert.AreEqual(4, math.Subtract(6, 2));
             }
 
             [Test]
-            public void TestDivide()
+            public void Test_DivideMethod()
             {
-                Assert.AreEqual(2, math.Divide(4, 2));
+                Assert.AreEqual(3, math.Divide(6, 2));
 
             }
 
             [Test]
-            public void TestMultiply()
+            public void Test_MultiplyMethod()
             {
                 Assert.AreEqual(6, math.Multiply(2, 3));
             }
@@ -36,7 +36,7 @@ namespace OOP2_Lab7_Test
             [Test]
             public void Test1()
             {
-                Assert.Throws<DivideByZeroException>(() => math.Divide(10, 0));
+                Assert.Throws<DivideByZeroException>(() => math.Divide(7, 0));
             }
         }
     }
